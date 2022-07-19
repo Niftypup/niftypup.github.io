@@ -1,6 +1,5 @@
-# niftypup.github.io
 
-Business Name: Nifty Clothing
+#Nifty Clothing
 
 Founders/leadership team: 
 Lyndon Jeff E. Ebue 
