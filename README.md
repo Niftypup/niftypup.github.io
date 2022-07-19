@@ -1,6 +1,6 @@
 
 Founders/leadership team: 
-Lyndon Jeff E. Ebue 
+Lyndon Jeff E. Ebue ,
 Patrick F. Pangilinan 
 
 Course Code: COSC-FE2
