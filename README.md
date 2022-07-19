@@ -1,4 +1,4 @@
-#Nifty Clothing
+Business Name: Nifty Clothing
 
 Founders/leadership team: 
 Lyndon Jeff E. Ebue 
