@@ -1,4 +1,3 @@
-
 #Nifty Clothing
 
 Founders/leadership team: 
