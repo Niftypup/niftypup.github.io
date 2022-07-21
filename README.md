@@ -1,12 +1,4 @@
 
-Founders/leadership team: 
-Lyndon Jeff E. Ebue ,
-Patrick F. Pangilinan 
-
-Course Code: COSC-FE2
-
-Course Name: CS Free Elective 2
-
 Course Project: E-Commerce Website
 
 Product Category: Clothing
